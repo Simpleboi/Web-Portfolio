@@ -1,2 +1,2 @@
 # Web-Portfolio
-updates to my Web project, open to suggestions !
+updates to my Website playground, please leave suggestions for improving!
